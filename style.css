@@ -54,6 +54,11 @@ p{
     font-size: 2rem;
     color:whitesmoke;
     line-height: 4rem;
+    text-align: left;
+    text-indent:5%;
+}
+
+.abtme{
     margin-bottom: 3rem;
 }
 
